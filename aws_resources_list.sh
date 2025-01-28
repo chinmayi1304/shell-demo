@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#############################################################################
 #This script will list all the resources in the AWS account
 
 #Below are the services supported by this script
